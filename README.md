@@ -1,8 +1,7 @@
 # RDBMS-Switches-for-Mechanical-Keyboards
 
-This is an ongoing project that will continuosly be updated from time to time. 
-
 The file consists of datasets from switches and their features, vendors, vendor prices and manufactures.
+This allows for optimized research and enhancing experience when identifying switches when connected to a database.
 
 **This RDBMS includes:**
 > Relational Diagram <br />
